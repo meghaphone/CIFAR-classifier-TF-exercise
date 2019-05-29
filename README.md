@@ -1,1 +1,1 @@
-# CIFAR-dataset-samples
+# CIFAR-classifier-TF-exercise
